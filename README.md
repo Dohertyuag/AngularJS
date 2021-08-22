@@ -1,1 +1,2 @@
-# AngularJS
+# Course 
+## Single page Applications with AngularJS
