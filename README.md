@@ -4,3 +4,4 @@
 - [Module 2](https://dohertyuag.github.io/Single-Page-Web-Application-With-AngularJS/Module2/)
 - [Module 3](https://dohertyuag.github.io/Single-Page-Web-Application-With-AngularJS/Module3/)
 - [Module 4](https://dohertyuag.github.io/Single-Page-Web-Application-With-AngularJS/Module4/)
+- [Module 5](https://dohertyuag.github.io/Single-Page-Web-Application-With-AngularJS/Module5/)
